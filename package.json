@@ -1,0 +1,22 @@
+{
+  "name": "koncho",
+  "version": "1.0.0",
+  "description": "An interactive fantasy adventure game with branching storyline",
+  "main": "src/game.js",
+  "scripts": {
+    "start": "node src/game.js",
+    "dev": "nodemon src/game.js"
+  },
+  "keywords": [
+    "adventure",
+    "game",
+    "fantasy",
+    "interactive",
+    "story"
+  ],
+  "author": "kunchop",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
